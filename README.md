@@ -85,7 +85,9 @@ AI--Camera-Classifier/
 
 ## Example Output
 
-![Example Output](example_output.png)
+![Example Output]![Screenshot (102)](https://github.com/user-attachments/assets/c5b99f85-e3dd-48fa-8598-43ecf64e5d67)
+![Screenshot (103)](https://github.com/user-attachments/assets/289778e0-9570-48da-a7ea-8c1c32a86472)
+
 
 ---
 
